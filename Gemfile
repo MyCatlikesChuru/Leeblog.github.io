@@ -5,4 +5,3 @@ gemspec
 
 gem "webrick", "~> 1.7"
 gem "jekyll-theme-yat"
-gem "github-pages", group: :jekyll_plugins
